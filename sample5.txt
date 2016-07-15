@@ -1,0 +1,649 @@
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 124=|
+124
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 42=*
+42
+9   // Put 2
+2
+
+1   // Line 2
+10  
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line two first |
+124
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 42=*
+42
+9   // Put 2
+2
+1   // Line 3
+10  
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+
+
+1   // line 3 first 
+45
+9   // Put 2
+2
+1   // line three 2nd 
+45
+9   // Put 2
+2
+1   // line 3 3rd 
+45
+9   // Put 2
+2
+1   // line 3 4th 
+45
+9   // Put 2
+2
+1   // line 3 5th 
+45
+9   // Put 2
+2
+1   // line 3 6th 
+45
+9   // Put 2
+2
+1   // line 3 7th 
+45
+9   // Put 2
+2
+
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line three first *
+42
+9   // Put 2
+2
+1   // line three 2nd *
+42
+9   // Put 2
+2
+1   // line 3 3rd *
+42
+9   // Put 2
+2
+1   // line 3 4th *
+42
+9   // Put 2
+2
+1   // line 3 5th *
+42
+9   // Put 2
+2
+1   // line 5 6th *
+42
+9   // Put 2
+2
+1   // line 5 7th *
+42
+9   // Put 2
+2
+
+1   // Line 4
+10  
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 4 first |
+124
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 4 2nd |
+124
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 4 3rd |
+124
+9   // Put 2
+2
+
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 4 first *
+42
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 4 2nd *
+42
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 4 3rd *
+42
+9   // Put 2
+2
+
+1   // Line 5
+10  
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 5 first |
+124
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 5 2nd |
+124
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 5 3rd |
+124
+9   // Put 2
+2
+
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 5 first *
+42
+9   // Put 2
+2
+1   // line 5 2nd *
+42
+9   // Put 2
+2
+1   // line 5 3rd *
+42
+9   // Put 2
+2
+1   // line 5 4th *
+42
+9   // Put 2
+2
+1   // line 5 5th *
+42
+9   // Put 2
+2
+1   // line 5 6th *
+42
+9   // Put 2
+2
+1   // line 5 7th *
+42
+9   // Put 2
+2
+
+1   // Line 6
+10  
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 6 first
+45
+9   // Put 2
+2
+1   // line 6 2nd 
+45
+9   // Put 2
+2
+1   // line 6 3rd 
+45
+9   // Put 2
+2
+1   // line 5 4th 
+45
+9   // Put 2
+2
+1   // line 5 5th 
+45
+9   // Put 2
+2
+1   // line 5 6th 
+45
+9   // Put 2
+2
+1   // line 5 7th 
+45
+9   // Put 2
+2
+
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 6 first *
+42
+9   // Put 2
+2
+
+
+1   // Line 7
+10  
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 7 first 
+124
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2	//endline 
+1   // line 7 first *
+42
+9   // Put 2
+2
+1   // Line 8
+10  
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2	//endline 1
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // Load 32=\s
+32
+9   // Put 2
+2
+1   // line 8 first 
+124
+9   // Put 2
+2
+
+1   // Line 9
+10  
+9   // Put 2
+2
+
+50  // End
+.1000
+30
