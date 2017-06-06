@@ -1,4 +1,4 @@
-=== perating Systems Project1 ===
+=== Operating Systems Project1 ===
 === Here is a short description of each file and how to compile and run this project ===
 
 makefile
